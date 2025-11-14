@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+transformers
+sentencepiece
+accelerate
+hf_xet
+fast-langdetect
+python-multipart
+pydub
+cutlet
